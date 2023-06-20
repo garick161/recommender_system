@@ -18,7 +18,7 @@
 
 ### Использованные инструменты
 
-__Модель предсказания__: XGBoostClassifier
+__ML модель__: XGBoostClassifier
 
 __EDA__: python, pandas, numpy, mathplotlib, seaborn, scikit-learn
 
